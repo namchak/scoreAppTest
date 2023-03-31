@@ -73,7 +73,7 @@ Sample:
 <parameter name="appiumRemotePath" value="/wd/hub/"></parameter>
 
 
-7. Since the TeamStats is changing everyday , please provide reference data and first 5 team stats for each team in below files in ./src/test/resources/testdata/
+7. To run Validate Team stats test : Since the TeamStats is changing everyday in score app, please provide latest reference data and first 5 team stats for each team in below files in ./src/test/resources/testdata/
 - In data.json -> Specify the team name and icon abbrevation (Eg: Golden State Warriors , GS)
 - Add/update the first 5 team stats data in corresponding team files -> File should be named as <Team name as displayed in app>.json
 
