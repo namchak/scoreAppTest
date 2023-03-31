@@ -1,0 +1,12 @@
+dataobjects\Stat.class
+screens\FavoritesScreen.class
+screens\ChooseLeagueScreen.class
+screens\NeverMissAGameScreen.class
+screens\TeamNewsScreen.class
+dataobjects\Team.class
+screens\ChooseTeamsScreen.class
+screens\TailoredContentPopUp.class
+screens\TeamStatsScreen.class
+screens\WelcomeScreen.class
+screens\AddFavoritesScreen.class
+screens\DownloadNowPopup.class

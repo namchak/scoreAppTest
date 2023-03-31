@@ -1,0 +1,23 @@
+[	
+	{
+		"stats": "Goals",
+		"rank_value": "3.41",
+		"formatted_rank": "(T7th)"
+	},{
+		"stats": "Shots on Goal",
+		"rank_value": "32.0",
+		"formatted_rank": "(13th)"
+	},{
+		"stats": "Power Play(%)",
+		"rank_value": "25.2",
+		"formatted_rank": "(T2nd)"
+	},{
+		"stats": "Shooting(%)",
+		"rank_value": "10.7",
+		"formatted_rank": "(T8th)"
+	},{
+		"stats": "Faceoff(%)",
+		"rank_value": "53.2",
+		"formatted_rank": "(4th)"
+	}
+]

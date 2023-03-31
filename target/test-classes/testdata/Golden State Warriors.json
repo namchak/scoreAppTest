@@ -1,0 +1,24 @@
+[	
+	{
+		"stats": "PPG",
+		"rank_value": "118.2",
+		"formatted_rank": "(3rd)"
+	},{
+		"stats": "Pace",
+		"rank_value": "101.0",
+		"formatted_rank": "(1st)"
+	},{
+		"stats": "FG(%)",
+		"rank_value": "47.78",
+		"formatted_rank": "(T12th)"
+	},{
+		"stats": "3PT FG",
+		"rank_value": "16.5",
+		"formatted_rank": "(1st)"
+	},{
+		"stats": "3PT FG(%)",
+		"rank_value": "38.3",
+		"formatted_rank": "(T3rd)"
+	}
+]
+	

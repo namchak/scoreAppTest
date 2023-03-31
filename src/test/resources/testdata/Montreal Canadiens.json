@@ -1,0 +1,23 @@
+[	
+	{
+		"stats": "Goals",
+		"rank_value": "2.82",
+		"formatted_rank": "(26th)"
+	},{
+		"stats": "Shots on Goal",
+		"rank_value": "27.5",
+		"formatted_rank": "(30th)"
+	},{
+		"stats": "Power Play(%)",
+		"rank_value": "17.4",
+		"formatted_rank": "(26th)"
+	},{
+		"stats": "Shooting(%)",
+		"rank_value": "10.2",
+		"formatted_rank": "(114th)"
+	},{
+		"stats": "Faceoff(%)",
+		"rank_value": "48.7",
+		"formatted_rank": "(T21st)"
+	}
+]
