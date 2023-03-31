@@ -61,7 +61,7 @@ Windows - from cmd prompt -> appium
 - If using emulator : Open AndroidStudio -> Virtual Device manager ; Create a new device ; Start the emulator
 - If connecting real device : Ensure device is connected and open
 
-5. Install theScore apk file from ./src/test/resources/apk 
+5. Install theScore from apk file in ./src/test/resources/apk/com.fivemobile.thescore_2023-03-01.apk on the device/emulator 
 
 6. Provide appium server and android device details in testngAndroid.xml (Replace the values for these parameters)
 Sample:
